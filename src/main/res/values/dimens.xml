@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="avatar_width">40dp</dimen>
+    <dimen name="avatar_height">40dp</dimen>
+
+    <dimen name="expandTitleStart">48dp</dimen>
+    <dimen name="expandTitleEnd">64dp</dimen>
+    <dimen name="headerMargin">10dp</dimen>
+    <dimen name="listMargin">20dp</dimen>
+    <dimen name="list_item_height">60dp</dimen>
+    <dimen name="detail_backdrop_height">256dp</dimen>
+</resources>
